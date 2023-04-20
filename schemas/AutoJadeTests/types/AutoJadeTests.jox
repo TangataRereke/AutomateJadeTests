@@ -1,0 +1,9 @@
+<Class name="AutoJadeTests" id="bf75dd28-0b23-4ea1-842b-9850d44bb8ad">
+    <superclass name="RootSchemaApp"/>
+    <transient>true</transient>
+    <sharedTransientAllowed>true</sharedTransientAllowed>
+    <subclassSharedTransientAllowed>true</subclassSharedTransientAllowed>
+    <subclassTransientAllowed>true</subclassTransientAllowed>
+    <transientAllowed>true</transientAllowed>
+    <DbClassMap file="_usergui"/>
+</Class>

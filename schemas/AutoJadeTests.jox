@@ -1,0 +1,8 @@
+<Schema name="AutoJadeTests" id="452056d1-7cd6-46ad-89fb-258f3c5a1723">
+    <primaryLocale name="3081"/>
+    <superschema name="RootSchema"/>
+    <Database name="AutoJadeTestsDb" id="019307ba-e660-4350-a218-88082e59664f">
+        <defaultFile name="autojadetests"/>
+        <DbFile name="autojadetests" id="312de8ec-5450-4426-acd3-4b213572f3fd"/>
+    </Database>
+</Schema>

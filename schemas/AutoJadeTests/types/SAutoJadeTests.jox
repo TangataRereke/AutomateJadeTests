@@ -1,0 +1,9 @@
+<Class name="SAutoJadeTests" id="61c5bdc5-792f-4493-8964-1ede3556c920">
+    <superclass name="RootSchemaSession"/>
+    <transient>true</transient>
+    <sharedTransientAllowed>true</sharedTransientAllowed>
+    <subclassSharedTransientAllowed>true</subclassSharedTransientAllowed>
+    <subclassTransientAllowed>true</subclassTransientAllowed>
+    <transientAllowed>true</transientAllowed>
+    <DbClassMap file="_environ"/>
+</Class>
