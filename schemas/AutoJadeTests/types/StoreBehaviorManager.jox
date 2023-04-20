@@ -1,0 +1,9 @@
+<Class name="StoreBehaviorManager" id="72cfaa19-129c-43fc-88a6-9c85062e8ab3">
+    <superclass name="Managers"/>
+    <transient>true</transient>
+    <sharedTransientAllowed>true</sharedTransientAllowed>
+    <subclassSharedTransientAllowed>true</subclassSharedTransientAllowed>
+    <subclassTransientAllowed>true</subclassTransientAllowed>
+    <transientAllowed>true</transientAllowed>
+    <DbClassMap file="autojadetests"/>
+</Class>

@@ -1,0 +1,9 @@
+<Class name="FindDeadCodeManager" id="540a2727-8116-4e02-9cea-c71b72fc3062">
+    <superclass name="Managers"/>
+    <transient>true</transient>
+    <sharedTransientAllowed>true</sharedTransientAllowed>
+    <subclassSharedTransientAllowed>true</subclassSharedTransientAllowed>
+    <subclassTransientAllowed>true</subclassTransientAllowed>
+    <transientAllowed>true</transientAllowed>
+    <DbClassMap file="autojadetests"/>
+</Class>

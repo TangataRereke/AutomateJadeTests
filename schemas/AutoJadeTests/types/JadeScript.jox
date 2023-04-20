@@ -1,0 +1,35 @@
+<Class name="JadeScript">
+    <JadeMethod name="runAutomation" id="a3ebfd61-05a5-4e28-b538-292a3b4bd759">
+        <source>runAutomation();
+
+vars
+
+begin
+
+end;
+</source>
+    </JadeMethod>
+    <JadeMethod name="runHouseClean" id="911ff981-0736-4590-a06a-9b2fbaeef766">
+        <source>runHouseClean();
+
+vars
+
+begin
+
+end;
+</source>
+    </JadeMethod>
+    <JadeMethod name="showWorkersForm" id="459733b0-a134-4879-b6a0-d049e4729f3b">
+        <source>showWorkersForm();
+
+vars
+	workers : WorkersForm;
+begin
+	create workers transient;
+	workers.show();
+epilog
+	
+end;
+</source>
+    </JadeMethod>
+</Class>

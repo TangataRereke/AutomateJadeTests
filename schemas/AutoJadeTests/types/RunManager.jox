@@ -1,0 +1,9 @@
+<Class name="RunManager" id="85d175b1-99f0-440f-9588-14ab11c12ab8">
+    <superclass name="Managers"/>
+    <transient>true</transient>
+    <sharedTransientAllowed>true</sharedTransientAllowed>
+    <subclassSharedTransientAllowed>true</subclassSharedTransientAllowed>
+    <subclassTransientAllowed>true</subclassTransientAllowed>
+    <transientAllowed>true</transientAllowed>
+    <DbClassMap file="autojadetests"/>
+</Class>

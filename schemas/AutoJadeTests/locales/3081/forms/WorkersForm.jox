@@ -1,7 +1,7 @@
 <Form name="WorkersForm" id="82b5638f-5a61-49c5-8990-db2586e502b9">
     <caption>WorkersForm</caption>
-    <clientHeight>324</clientHeight>
-    <clientWidth>407</clientWidth>
+    <clientHeight>753</clientHeight>
+    <clientWidth>1875</clientWidth>
     <clipControls>true</clipControls>
     <controlBox>true</controlBox>
     <maxButton>true</maxButton>
@@ -10,9 +10,73 @@
     <backColor>-2147483633</backColor>
     <borderStyle>2</borderStyle>
     <enabled>true</enabled>
-    <height>363</height>
+    <height>792</height>
     <left>23</left>
     <top>23</top>
     <visible>true</visible>
-    <width>423</width>
+    <width>1891</width>
+    <Table name="tblWorkers" id="fbe85e3a-7037-461e-9191-3096bc696386">
+        <autoSize>3</autoSize>
+        <columns>2</columns>
+        <expandedHeight>739</expandedHeight>
+        <fixed3D>true</fixed3D>
+        <fixedRows>1</fixedRows>
+        <gridColor>-2147483632</gridColor>
+        <gridLines>true</gridLines>
+        <rows>2</rows>
+        <scrollBars>3</scrollBars>
+        <sheets>1</sheets>
+        <showFocus>true</showFocus>
+        <stretch>1</stretch>
+        <tabActiveColor>-2147483633</tabActiveColor>
+        <tabInactiveColor>-2147483633</tabInactiveColor>
+        <fontSize>8.25</fontSize>
+        <foreColor>-2147483640</foreColor>
+        <parent name="WorkersForm"/>
+        <parentBottomOffset>3</parentBottomOffset>
+        <parentRightOffset>9</parentRightOffset>
+        <show3D>3</show3D>
+        <tabIndex>2</tabIndex>
+        <tabStop>true</tabStop>
+        <backColor>-2147483643</backColor>
+        <borderStyle>1</borderStyle>
+        <enabled>true</enabled>
+        <height>739</height>
+        <left>884</left>
+        <top>11</top>
+        <visible>true</visible>
+        <width>982</width>
+    </Table>
+    <Table name="tblManagers" id="aa9a8290-3764-47d8-8863-eb82979caed2">
+        <autoSize>3</autoSize>
+        <columns>2</columns>
+        <expandedHeight>739</expandedHeight>
+        <fixed3D>true</fixed3D>
+        <fixedRows>1</fixedRows>
+        <gridColor>-2147483632</gridColor>
+        <gridLines>true</gridLines>
+        <rows>2</rows>
+        <scrollBars>3</scrollBars>
+        <sheets>1</sheets>
+        <showFocus>true</showFocus>
+        <stretch>1</stretch>
+        <tabActiveColor>-2147483633</tabActiveColor>
+        <tabInactiveColor>-2147483633</tabInactiveColor>
+        <fontSize>8.25</fontSize>
+        <foreColor>-2147483640</foreColor>
+        <parent name="WorkersForm"/>
+        <parentBottomOffset>2</parentBottomOffset>
+        <parentRightOffset>993</parentRightOffset>
+        <show3D>3</show3D>
+        <tabIndex>1</tabIndex>
+        <tabStop>true</tabStop>
+        <backColor>-2147483643</backColor>
+        <borderStyle>1</borderStyle>
+        <enabled>true</enabled>
+        <height>739</height>
+        <left>9</left>
+        <top>12</top>
+        <visible>true</visible>
+        <width>873</width>
+    </Table>
 </Form>

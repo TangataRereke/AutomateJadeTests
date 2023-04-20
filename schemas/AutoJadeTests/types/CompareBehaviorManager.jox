@@ -1,0 +1,9 @@
+<Class name="CompareBehaviorManager" id="ec2bb7e0-9a94-4542-95be-c6200190826c">
+    <superclass name="Managers"/>
+    <transient>true</transient>
+    <sharedTransientAllowed>true</sharedTransientAllowed>
+    <subclassSharedTransientAllowed>true</subclassSharedTransientAllowed>
+    <subclassTransientAllowed>true</subclassTransientAllowed>
+    <transientAllowed>true</transientAllowed>
+    <DbClassMap file="autojadetests"/>
+</Class>

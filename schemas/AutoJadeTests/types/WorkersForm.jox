@@ -3,4 +3,12 @@
     <transient>true</transient>
     <subclassTransientAllowed>true</subclassTransientAllowed>
     <transientAllowed>true</transientAllowed>
+    <ImplicitInverseRef name="tblManagers" id="a42d6d5c-3852-4a2b-ac14-88ee96df0112">
+        <embedded>true</embedded>
+        <type name="Table"/>
+    </ImplicitInverseRef>
+    <ImplicitInverseRef name="tblWorkers" id="c8fd33b5-7db8-429d-8362-aefc2219331f">
+        <embedded>true</embedded>
+        <type name="Table"/>
+    </ImplicitInverseRef>
 </GUIClass>
