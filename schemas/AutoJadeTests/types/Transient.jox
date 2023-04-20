@@ -1,0 +1,8 @@
+<Class name="Transient" id="620e1e64-2336-4d11-9a63-b44e23a2b59f">
+    <superclass name="Object"/>
+    <transient>true</transient>
+    <subclassSharedTransientAllowed>true</subclassSharedTransientAllowed>
+    <subclassTransientAllowed>true</subclassTransientAllowed>
+    <abstract>true</abstract>
+    <DbClassMap file="autojadetests"/>
+</Class>

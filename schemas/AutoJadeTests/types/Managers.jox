@@ -1,0 +1,8 @@
+<Class name="Managers" id="022ffeb9-318f-4d46-877b-b0f0e5a42e10">
+    <superclass name="Object"/>
+    <transient>true</transient>
+    <subclassSharedTransientAllowed>true</subclassSharedTransientAllowed>
+    <subclassTransientAllowed>true</subclassTransientAllowed>
+    <abstract>true</abstract>
+    <DbClassMap file="autojadetests"/>
+</Class>

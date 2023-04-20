@@ -1,0 +1,6 @@
+<GUIClass name="WorkersForm" id="43a0e55a-5539-4398-9294-8590784ab3c0">
+    <superclass name="Form"/>
+    <transient>true</transient>
+    <subclassTransientAllowed>true</subclassTransientAllowed>
+    <transientAllowed>true</transientAllowed>
+</GUIClass>

@@ -1,0 +1,16 @@
+<Form name="AdministrationForm" id="9086e534-af34-43fc-8213-7e7d4d0fa244">
+    <caption>AdministrationForm</caption>
+    <clientHeight>324</clientHeight>
+    <clientWidth>407</clientWidth>
+    <clipControls>true</clipControls>
+    <controlBox>true</controlBox>
+    <maxButton>true</maxButton>
+    <minButton>true</minButton>
+    <scaleForm>true</scaleForm>
+    <backColor>-2147483633</backColor>
+    <borderStyle>2</borderStyle>
+    <enabled>true</enabled>
+    <height>363</height>
+    <visible>true</visible>
+    <width>423</width>
+</Form>

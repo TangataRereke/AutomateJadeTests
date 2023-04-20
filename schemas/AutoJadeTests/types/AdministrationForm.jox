@@ -1,0 +1,6 @@
+<GUIClass name="AdministrationForm" id="22a872ae-503b-4e50-a8eb-c0acf6a920ab">
+    <superclass name="Form"/>
+    <transient>true</transient>
+    <subclassTransientAllowed>true</subclassTransientAllowed>
+    <transientAllowed>true</transientAllowed>
+</GUIClass>

@@ -1,0 +1,18 @@
+<Form name="WorkersForm" id="82b5638f-5a61-49c5-8990-db2586e502b9">
+    <caption>WorkersForm</caption>
+    <clientHeight>324</clientHeight>
+    <clientWidth>407</clientWidth>
+    <clipControls>true</clipControls>
+    <controlBox>true</controlBox>
+    <maxButton>true</maxButton>
+    <minButton>true</minButton>
+    <scaleForm>true</scaleForm>
+    <backColor>-2147483633</backColor>
+    <borderStyle>2</borderStyle>
+    <enabled>true</enabled>
+    <height>363</height>
+    <left>23</left>
+    <top>23</top>
+    <visible>true</visible>
+    <width>423</width>
+</Form>
