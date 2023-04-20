@@ -1,0 +1,34 @@
+<Class name="Object">
+    <JadeMethod name="assertError" id="ca0ab5ca-32e0-4a5e-9826-ea96565d67c7">
+        <source>assertError(pCondition : Boolean; pMessage : String);
+
+vars
+	error : AssertionError;
+	psa : ProcessStackArray;
+begin
+	if pCondition then
+		return;
+	endif;
+	
+	create error transient;
+	error.errorCode := 10000;
+	error.message := pMessage;
+
+	create psa transient;
+	process.currentStack(psa);
+	if psa.size() &gt; 2 then
+		error.locationDetails := psa[2].method.qualifiedName &amp; " (" &amp; psa[2].position.String &amp; ")";
+	endif;
+	raise error;
+epilog
+	delete psa;
+end;
+</source>
+        <Parameter name="pCondition">
+            <type name="Boolean"/>
+        </Parameter>
+        <Parameter name="pMessage">
+            <type name="String"/>
+        </Parameter>
+    </JadeMethod>
+</Class>

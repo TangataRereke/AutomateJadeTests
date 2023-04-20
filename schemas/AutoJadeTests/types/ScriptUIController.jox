@@ -1,0 +1,7 @@
+<Class name="ScriptUIController" id="9c4be3e2-140f-4c57-ad38-b3ef6aaac48d">
+    <superclass name="UIControllers"/>
+    <transient>true</transient>
+    <sharedTransientAllowed>true</sharedTransientAllowed>
+    <subclassSharedTransientAllowed>true</subclassSharedTransientAllowed>
+    <DbClassMap file="autojadetests"/>
+</Class>

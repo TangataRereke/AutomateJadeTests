@@ -1,7 +1,0 @@
-<Class name="GUIControllers" id="73d7bbc3-b2d8-458b-a12f-fc16294ea700">
-    <superclass name="Object"/>
-    <transient>true</transient>
-    <subclassSharedTransientAllowed>true</subclassSharedTransientAllowed>
-    <abstract>true</abstract>
-    <DbClassMap file="autojadetests"/>
-</Class>

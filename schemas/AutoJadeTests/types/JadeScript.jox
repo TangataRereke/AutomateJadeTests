@@ -32,4 +32,27 @@ epilog
 end;
 </source>
     </JadeMethod>
+    <JadeMethod name="dateTest" id="8439e02c-5dc9-4377-90cd-c8f9f6462674">
+        <source>dateTest() : Date;
+
+vars
+	date : Date;
+begin
+	return date;
+end;
+</source>
+        <ReturnType>
+            <type name="Date"/>
+        </ReturnType>
+    </JadeMethod>
+    <JadeMethod name="testtest" id="a2f8c838-4400-4c08-96f9-95f4a1c84f86">
+        <source>testtest();
+
+vars
+
+begin
+	assertError(false, "TEST");
+end;
+</source>
+    </JadeMethod>
 </Class>

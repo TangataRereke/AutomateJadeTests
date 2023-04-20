@@ -1,0 +1,15 @@
+<ExceptionClass name="AssertionError" id="a260c075-9d51-4f01-96b1-9cbc71dc5b64">
+    <superclass name="Exception"/>
+    <transient>true</transient>
+    <sharedTransientAllowed>true</sharedTransientAllowed>
+    <subclassSharedTransientAllowed>true</subclassSharedTransientAllowed>
+    <subclassTransientAllowed>true</subclassTransientAllowed>
+    <transientAllowed>true</transientAllowed>
+    <DbClassMap file="autojadetests"/>
+    <PrimAttribute name="locationDetails" id="8d80bb30-7b9d-4980-972a-6f19c684343a">
+        <type name="String"/>
+    </PrimAttribute>
+    <PrimAttribute name="message" id="2bdc11fd-7a15-4256-822c-9d2e1cc1b4e0">
+        <type name="String"/>
+    </PrimAttribute>
+</ExceptionClass>
