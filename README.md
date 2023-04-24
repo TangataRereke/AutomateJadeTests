@@ -26,10 +26,7 @@ Process is this:
 5. Everything is complete, set those pigs to fly
 
 Requirements:
-1. JadeGit - https://gitlab.com/jadelab/jadegit/jadegit
-2/ Jade 2022 (might be backward compatible though, it's not complicated) - https://www.jadeworld.com/jade-platform/developer-centre/download-jade?hsCtaTracking=2527cbd6-e684-41b1-9eef-89f008442355%7C557ba92f-a865-4705-b48f-7a9d2c5f215d
+1. Jade 2016 - Although originally the plan was to use Jade Git. I am on a linux system and Jade Git relies on a windows system so now you just need Jade 2016.
 
 Running:
-1. AutoJadeTests::JadeScript::runAutomation - This fires off the automation process
-2. AutoJadeTests::JadeScript::showWorkersForm - Managers/workers all run in the background, open this form to see where it is up to or if you want to stop the process
-3. AutoJadeTests::JadeScript::runHouseClean - Does some tidying up, such as if a run has completed and a method is gone then it is gone burger, so likewise so will the data
+1. WIP, So far we are testing off AutoTest schema JadeScript::run
