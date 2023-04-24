@@ -1,9 +1,0 @@
-<Class name="CollectCodeManager" id="51ec9aae-3aed-4466-ae38-94c865148942">
-    <superclass name="Managers"/>
-    <transient>true</transient>
-    <sharedTransientAllowed>true</sharedTransientAllowed>
-    <subclassSharedTransientAllowed>true</subclassSharedTransientAllowed>
-    <subclassTransientAllowed>true</subclassTransientAllowed>
-    <transientAllowed>true</transientAllowed>
-    <DbClassMap file="autojadetests"/>
-</Class>

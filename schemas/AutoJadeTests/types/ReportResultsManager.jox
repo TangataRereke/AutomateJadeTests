@@ -1,9 +1,0 @@
-<Class name="ReportResultsManager" id="0a71c8f1-8b2e-4dc3-8886-1297f730ac53">
-    <superclass name="Managers"/>
-    <transient>true</transient>
-    <sharedTransientAllowed>true</sharedTransientAllowed>
-    <subclassSharedTransientAllowed>true</subclassSharedTransientAllowed>
-    <subclassTransientAllowed>true</subclassTransientAllowed>
-    <transientAllowed>true</transientAllowed>
-    <DbClassMap file="autojadetests"/>
-</Class>

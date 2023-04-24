@@ -1,9 +1,0 @@
-<Class name="HouseKeepManager" id="d7be6bf3-ccd0-4487-9b6a-c490ea29935f">
-    <superclass name="Managers"/>
-    <transient>true</transient>
-    <sharedTransientAllowed>true</sharedTransientAllowed>
-    <subclassSharedTransientAllowed>true</subclassSharedTransientAllowed>
-    <subclassTransientAllowed>true</subclassTransientAllowed>
-    <transientAllowed>true</transientAllowed>
-    <DbClassMap file="autojadetests"/>
-</Class>

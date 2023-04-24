@@ -1,8 +1,0 @@
-<Class name="Persistence" id="683549ed-3dc6-4e17-89b0-152a354cc7e2">
-    <superclass name="Object"/>
-    <subclassPersistentAllowed>true</subclassPersistentAllowed>
-    <subclassSharedTransientAllowed>true</subclassSharedTransientAllowed>
-    <subclassTransientAllowed>true</subclassTransientAllowed>
-    <abstract>true</abstract>
-    <DbClassMap file="autojadetests"/>
-</Class>

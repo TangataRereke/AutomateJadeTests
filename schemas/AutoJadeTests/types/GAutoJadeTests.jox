@@ -1,9 +1,0 @@
-<Class name="GAutoJadeTests" id="85dfb07b-236e-4415-9971-3d65ab9040a4">
-    <superclass name="RootSchemaGlobal"/>
-    <transient>true</transient>
-    <sharedTransientAllowed>true</sharedTransientAllowed>
-    <subclassSharedTransientAllowed>true</subclassSharedTransientAllowed>
-    <subclassTransientAllowed>true</subclassTransientAllowed>
-    <transientAllowed>true</transientAllowed>
-    <DbClassMap file="autojadetests"/>
-</Class>

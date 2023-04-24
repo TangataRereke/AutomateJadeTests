@@ -1,9 +1,0 @@
-<Class name="CollectCodeWorker" id="f19161ba-eb7a-42b9-aa0c-6f5bfbb88ae5">
-    <superclass name="Workers"/>
-    <transient>true</transient>
-    <sharedTransientAllowed>true</sharedTransientAllowed>
-    <subclassSharedTransientAllowed>true</subclassSharedTransientAllowed>
-    <subclassTransientAllowed>true</subclassTransientAllowed>
-    <transientAllowed>true</transientAllowed>
-    <DbClassMap file="autojadetests"/>
-</Class>
